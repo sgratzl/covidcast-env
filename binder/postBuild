@@ -1,0 +1,4 @@
+#!/bin/bash
+set -ex
+
+Rscript -e "devtools::install_github(\"cmu-delphi/covidcast\", ref = \"main\", upgrade = \"never\", subdir = \"R-packages/covidcast\")"

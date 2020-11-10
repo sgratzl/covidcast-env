@@ -1,0 +1,20 @@
+---
+title: "COVIDCast API"
+author: "Samuel Gratzl"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{COVIDCast API}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# COVIDCast API
+
+```{r libraries}
+
+```
