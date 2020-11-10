@@ -2,6 +2,7 @@
 
 Automatic repo for hosting covidcast-api demos
 
-RStudio: https://mybinder.org/v2/gh/sgratzl/covidcast-env/main?urlpath=rstudio
+JupyterLab (Python): https://mybinder.org/v2/gh/sgratzl/covidcast-env/main?urlpath=lab/tree/basic.ipynb
+JupyterLab (R): https://mybinder.org/v2/gh/sgratzl/covidcast-env/main?urlpath=lab/tree/basic_r.ipynb
 
-Juptyerlab: https://mybinder.org/v2/gh/sgratzl/covidcast-env/main?urlpath=lab/tree/basic.ipynb
+RStudio: https://mybinder.org/v2/gh/sgratzl/covidcast-env/main?urlpath=rstudio
