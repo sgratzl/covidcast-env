@@ -1,7 +1,7 @@
 name: covidcast-api
 channels:
-  - defaults
   - conda-forge
+  - defaults
 dependencies:
   - gdal=3.0.2
   - python=3.7.9 
@@ -14,7 +14,7 @@ dependencies:
   - r-reticulate=1.12
   - r-blogdown
   - r-svglite
-  - r-dplyr
+  - r-dplyr=1.0.2
   - r-ggplot2
   - r-jsonlite
   - r-httr
